@@ -23,7 +23,7 @@ $emi = $_GET["emi"];
 $val = $_GET["val"];
 ?>
 
-<div style="background-image: url('imagens/carterinha photo.jpg');
+<div style="background-image: url('../imagens/carterinha photo.jpg');
 background-repeat: no-repeat;
  background-size: 800px;
  height: 500px;
