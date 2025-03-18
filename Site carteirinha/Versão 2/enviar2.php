@@ -7,7 +7,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         .carteirinha {
-            background-image: url('imagens/carterinha photo.jpg');
+            background-image: url('../imagens/carterinha photo.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             width: 800px;
